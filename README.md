@@ -1,15 +1,13 @@
-# project1
-
 <!DOCTYPE html>
 <html>
 
 <head>
-<title>Nested Elements Example</title>
+<title>This is document title</title>
 </head>
 
 <body>
-<h1>This is <i>italic</i> heading</h1>
-<p>This is <u>underlined</u> paragraph</p>
+<h1>This is a heading</h1>
+<p>Document content goes here.....</p>
 </body>
 
 </html>
