@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head> <h1>
 Project
-</head>
+</head> <h1>
 
 <body>
 <h1>COVID cases</h1>
