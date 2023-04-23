@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>This is document title</title>
+<title> This is document title </title>
 </head>
 
 <body>
