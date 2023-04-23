@@ -2,12 +2,16 @@
 <html>
 
 <head>
-<title> This is document title </title>
+<title>Project</title>
 </head>
 
 <body>
-<h1>This is a heading</h1>
-<p>Document content goes here.....</p>
+<h1>COVID cases</h1>
+
+<p> Para1 No. Of covid cases</p>
+
+<p> Para1 No. Of covid deaths</p>
+
 </body>
 
 </html>
